@@ -91,7 +91,8 @@ The interactive Power BI dashboard provides a complete business overview of sale
 - best_worst_dashboard.png
 - pizza_sales_sql_queries.pdf
 - Pizza_Sales_Business_Questions.pdf
-- pizza_sales_image.zip
+- pizza_sales_image.filefloder
+  
 
 ---
 
@@ -116,3 +117,4 @@ Passionate about Data Analytics & Business Intelligence
 ---
 
 ⭐ If you found this project useful, feel free to give it a star!
+
